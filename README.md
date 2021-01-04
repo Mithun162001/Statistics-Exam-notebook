@@ -1,5 +1,5 @@
 # Statistics-Exam-notebook
-A python notebook for statsitic exam 3rd semester
+A python notebook for statistics exam 3rd semester
 
 *Use the statistic.ipynb for calculating the following operations*
 
