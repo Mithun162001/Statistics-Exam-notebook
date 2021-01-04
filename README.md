@@ -1,8 +1,9 @@
 # Statistics-Exam-notebook
 A python notebook for statsitic exam 3rd semester
+
 *Use the statistic.ipynb for calculating the following operations*
 
-We can use this for calculating:
+**We can use this for calculating:**
 * mean
 * median
 * mode
